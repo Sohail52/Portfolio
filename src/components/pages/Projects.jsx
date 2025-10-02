@@ -6,7 +6,7 @@ import { FaRupeeSign } from 'react-icons/fa';
 import faceEmotions from '../../assets/faceEmotions.png';
 import cropModels from '../../assets/cropModels.png';
 import hostelDB from '../../assets/hostelDB.png';
-import openFabric from '../../assets/OpenFabric.png';
+import openFabric from '../../assets/Openfabric.png';
 
 const Projects = () => {
   useEffect(() => {
