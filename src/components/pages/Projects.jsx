@@ -118,7 +118,7 @@ const Projects = () => {
                         </motion.a>
                         {project.status !== "In Progress" && (
                           <motion.a
-                            href={project.deploy}
+                            href={project.live}
                             target="_blank"
                             rel="noopener noreferrer"
                             className="text-gray-600 hover:text-gray-900 transition-colors duration-300"
@@ -183,7 +183,7 @@ const Projects = () => {
         <div className="flex justify-center items-center gap-6 mb-8">
           <div className="relative group">
             <motion.a
-              href="https://github.com/Priyansh-max/Portfolio"
+              href="https://github.com/Sohail52/Portfolio"
               target="_blank"
               rel="noopener noreferrer"
               whileHover={{ scale: 1.1 }}
